@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Droid Caffe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment">Hello Dessert Recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello pastries recipe fragment</string>
+    <string name="hello_stores_fragment">Hello stores Fragment</string>
+    <string name="tab_label_1">Desserts</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="desserts_recipes">Desserts Recipes</string>
+    <string name="desserts_recipe">Desserts Recipe</string>
+    <string name="browse_recipes">Browse recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
+    <string name="short_description">Short Description</string>
+    <string name="how_to_prepare_donuts">How to prepare donuts</string>
+
+    <array name="desserts_images">
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/ice_cream</item>
+        <item>@drawable/donut2</item>
+        <item>@drawable/froyo4</item>
+        <item>@drawable/ice</item>
+        <item>@drawable/ice_cream</item>
+    </array>
+
+    <string-array name="dessert_title">
+        <item>Donut</item>
+        <item>Froyo</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Ice Cream</item>
+        <item>Donut</item>
+        <item>Froyo</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Ice Cream</item>
+
+    </string-array>
+
+
+    <string-array name="dessert_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is a premium self-serve yogurt</item>
+        <item>Ice cream sandwiches have either Chocolate or Vanilla filling</item>
+        <item>Ice cream is a cold delicious dessert with various flavors</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is a premium self-serve yogurt</item>
+        <item>Ice cream sandwiches have either Chocolate or Vanilla filling</item>
+        <item>Ice cream is a cold delicious dessert with various flavors</item>
+    </string-array>
+</resources>
